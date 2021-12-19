@@ -1,2 +1,3 @@
-# ctt-intro
-Couleur Tweak Tips Javascript Intro (credit goes to Mauricio Allende)
+# Couleur Tweak Tips Introduction using Javascript
+
+(credit goes to Mauricio Allende)
